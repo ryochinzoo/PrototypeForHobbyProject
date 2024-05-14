@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="lib" path="/Library/Java/Extensions/RXTXcomm.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Library/Java/Extensions"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/user/Desktop/usb-serial-for-android-v010.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
